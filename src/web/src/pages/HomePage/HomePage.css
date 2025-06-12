@@ -1,0 +1,25 @@
+.attendance-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  .attendance-table th,
+  .attendance-table td {
+    border: 1px solid #242222;
+    padding: 10px;
+  }
+  .attendance-table th {
+    background-color: #d3d3d3; /* lightgray */
+  }
+  
+  .circle {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #2b80ff; /* 青色 */
+    margin: auto;
+  }
+  
+  
